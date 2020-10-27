@@ -1,0 +1,155 @@
+{
+  "Nukkad": {
+    "str": ["Nuk", "kad"],
+    "linkArray": [["/About", "About"], ["/Rules", "Rules"], ["/Gi", "General Instructions"], ["/Jc", "Judgement Criteria"], ["/Register", "Register"]],
+    "about": "Exploiting the power of a street gathering, Nukkad or street plays have been the medium of the voice of the people from time immemorial. Now be a part of this tradition and strive to bring about change by taking part in Nukkad, one of the most acclaimed street play competitions in India. It is time to break barriers so clear your voices, get ready for the action, drum it up, folks and let your message ring out loud!",
+    "rules": [
+      "The event will take place in 2 rounds, prelims and finals.",
+      "Teams are expected to perform at an open-air venue, on a circular stage with audience on all sides.",
+      "The team shall consist of maximum 15 people and a minimum of 6 people excluding 2 instrumentalists(optional).",
+      "In the prelims will be held in Bhopal, Delhi, Mumbai, Pune and Kharagpur.",
+      "Time limit shall be 15 minutes for both finals and prelims.",
+      "In case of violation of the time limit, participants will be penalized by the judges. The time duration for prelims and finals includes performance time and stage setting theme. The given time duration is from empty stage to empty stage.",
+      "Usage of fire, water or smoke is not allowed.",
+      "Gulaal or any props, if used, must be cleared off by the participants after their performance within the performance time allotted to them.",
+      "Any instance of vulgarity or disturbing content of any order will lead to forceful halt of performance and immediate disqualification.",
+      "Only live music is allowed. Teams will have to bring their own instruments."
+    ],
+    "GI":["The judge's decision will be final and binding. Violation of TIME LIMIT will result in a penalty.Audience response will have substantial points in scoring."],
+    "JC": [["Content, Theme and Message:", "40%"], ["Performance including Acting, Dialogues and Expression:", "25%"], ["Interaction and Improvisation:", "20%"], ["Direction, Gimmicks and Effects:", "15%"]]
+  },
+  "Hilarity Ensues": {
+    "str": ["Hilarity", " Ensues"],
+    "linkArray": [["/About", "About"], ["/Rules", "Rules"], ["/Jc", "Judgement Criteria"], ["/Register", "Register"]],
+    "about": "The final stage in all things humorous, Hilarity Ensues is the perfect platform to express your boundless sarcasm, witty humor and inner goofball in front of an enthusiastic audience. Stand up to the nerves, take the stage by fire and leave the crowd in splits of laughter.",
+    "rules": [
+      "This is a solo event", "Content can be both in Hindi or English.",
+      "Additional time of 30 seconds can be provided after which the participant stands to get debarred.",
+      "Participants should bring their own props. The organizing team holds the discretion of allowing it on stage.",
+      "The performance should be in cohesion with the integrity of the fest. The use of obscene language and abusive words should be avoided.",
+      "The decision of the judges and the organizing team will be final and binding.",
+      "Audience response will have substantial points in scoring."
+    ],
+    "JC": [["The participants will be judged on the basis of their content, expression and audience response on a scale from 0-10."]]
+  },
+  "Poetry Slams":{
+    "str": ["Poetry", "Slams"],
+    "linkArray": [["/About", "About"], ["/Rules", "Rules"], ["/Jc", "Judgement Criteria"],  ["/Register", "Register"]],
+    "about": "One of the events of the fest, which involves the combined art of story-telling, stand-up and poetry writing, Poetry Slam happens to be the flagship event of Literary genre. The event attracts poetry enthusiasts from all over the country to enchant the audience and fill their artistic hunger. The event serves instrumental in recognizing the new generation poets in India.",
+    "rules": [
+      "Poems can be on any subject and in any style but must be original.", "Use of props, special costumes, musical instruments or pre-recorded music is not allowed.",
+      "There is no upper limit of participants from a particular college. The judging shall however be done individually.",
+      "Time limit is three minutes. After three minutes, there is a 10-second grace period after which a penalty of 0.5 is automatically deducted, without warning, from each poet's overall score for every subsequent 10 seconds.",
+      "Teams may not repeat primary authorship in a bout. Every poet who performs during a bout must be a primary author.",
+      "The judges’ will give each poem a score from 0 to 10.", "The sum of all the scores by all the judges in the panel for a particular round and the grand total of each bout will be considered for their qualification to next bout.",
+      "Judges’ decision is final and binding.", "The organizing team reserves the right to change or modify the rules."
+    ],
+    "JC": [["The participants will be judged on the basis of their content, expression and audience response on a scale from 0-10."]]
+  },
+  "Shuffle": {
+    "str": ["Shu", "ffle"],
+    "linkArray": [["/About", "About"], ["/Rules_Shuffle", "Rules"], ["/Gi_Shuffle", "General Instructions"], ["/Jc_Shuffle", "Judgement Criteria"], ["/Register", "Register"] ],
+    "about": "The Nationwide Street Dance Competition. Have you got what it takes to sweep the crowd off its feet? Your style be hip-hop, tutting, crumping, breakdancing, stepping, b-boying, contraption or western free style dancing, this is your chance to take over the street stage.",
+    "rules_prelims": [
+      "Time limit is 4min - 6 min (length of music track).", "Participants should perform for more than 2 tracks."
+    ],
+    "rules_prefinals": [
+      "Time limit is 2min+2min.", "The teams cannot repeat the performance of the prelims.",
+      "24 hours prior to the event, each team would be provided with 2 music tracks (1+1 minutes) for preparation. Teams are supposed to bring their own portable music players. Different teams would be provided with different music tracks.",
+      "In the 24 hours provided, the teams are to choreograph and prepare to dance to the 2 music tracks provided to them along with a 2 min song chosen by the team.",
+      "The team needs to bring a continuous soundtrack of 4 minutes including 2 minutes of their own song and the 2 minutes of music provide by Spring Fest and submit to the organizer before start of the event.",
+      "The organizing team reserves the right to change or modify any of the rules."
+    ],
+    "rules_finals": [
+      "The music tracks will be provided by the Spring Fest Team on the venue itself.",
+      "Each Battle will be in three rounds. In each round, maximum 4 members from each team can go one after the other.",
+      "Time limit for each round 1 min 30 sec per team (i.e. 1.5 min x 2 teams x 3 rounds = Total 9 minutes for each battle).",
+      "In case of a tie an extra round maybe provided."
+    ],
+    "GI": [
+      "Participants must strictly follow any of the following styles - Hip-hop, popping, tutting, krumping, breakdance, stepping, b-boying, contraptions and western free style.",
+      "Team size — min 4 and max 10. Props are not allowed.",
+      "The performance should be in cohesion with the integrity of the fest.",
+      "The songs selected by the participants must not contain any foul language.",
+      "Naked flames & live animals are not allowed.",
+      "Violation of any of the above will lead to immediate disqualification."
+    ],
+    "JC1": [["1.Choreography", "4.Energy Level"], ["2.Stage Utilization", "5.Innovation"], ["3.Costumes", "6.Overall impact on the crowd"]],
+    "JC2": "For FACE-OFF round, crowd support and most of all, overshadowing opposite team will be important factors."
+  },
+  "SF-Idol": {
+    "str": ["SF-", "Idol"],
+    "linkArray": [["/About", "About"], ["/Rules_Shuffle", "Rules"], ["/Jc", "Judgement Criteria"], ["/Register", "Register"] ],
+    "about": "Get ready to unveil the singer within you as Spring Fest presents SF Idol, the solo singing competition through which talented singers from across the nation take a shot at fame. From folk to filmy songs, the stage is set for you to mesmerize the audience and win exciting prizes.",
+    "rules_prelims": [
+      "Participants need to perform a single song in Hindi or English or both and it can be a movie song, an album song, or his/her original composition.",
+      "The judging will be done solely on the basis of vocal performance.", "Participants can perform with one instrumental accompaniment or with a backing track."
+    ],
+    "rules_finals": [
+      "Participants can perform any number of songs (in Hindi, English or both) within 5 minutes after which 20% marks will be deducted after 10 seconds and disqualification may occur after 20 seconds.",
+      "Participants can perform with one instrumental accompaniment or with a backing track but the judging will done solely on the basis of vocal performance.",
+      "Performers can be disqualified on the spot for misconduct, obscenity or foul language.",
+      "Judging will be done solely on the basis of vocal performance."
+    ],
+    "JC": [["1. Quality of Voice", "5. Pronunciation"], ["2. Sense of scale and beat", "6. Mood and Expression"], ["3. Quality of rendition", "7. Overall impact"], ["4. Improvisation", ""]]
+  },
+  "Shake-A-Leg": {
+    "str": ["Shake-", "A-Leg"],
+    "linkArray": [["/About", "About"], ["/Rules_Shuffle", "Rules"], ["/Gi_Shuffle", "General Instructions"], ["/Jc", "Judgement Criteria"], ["/Register", "Register"] ],
+    "about": "When you are happy and you know it, Shake a Leg. A daring platform to showcase your moves and complete against the best dancers in the country. Shake a Leg pushes your limits with challenges from impromptu choreography to situational Depictions. All it takes to win the title of Dance Master is your skill in expression of energy and emotions.",
+    "rules_prelims": [
+      "Offline prelims will be conducted in Mumbai, Bhopal, Delhi, Bangalore, Hyderabad and Pune. Online prelims will also be conducted wherein participants must send a link to their video performance at dance.sf19@gmail.com before 30th December 2018.",
+      "The performance should be minimum 1.5 minutes and maximum 2 minutes long (music on to music off). All dance forms are allowed.",
+      "Judging criteria includes choreography, stage utilization, energy level, innovation, presentation, and overall impact on the crowd."
+    ],
+    "rules_finals": [
+      "The finals will be conducted in IIT Kharagpur during the fest. The shortlisted participants will be informed by mail and through call. No on spot registrations will be allowed.",
+      "Participants should get their songs/music in a CD or pen-drive. Live music is not allowed.",
+      "The participant must portray a theme through dance. The participants must choose from a list of themes that will be announced three weeks prior to the fest.",
+      "Time limit is 2 min-3 min (music on to music off.",
+      "Stage specification - 20ft*38ft (approx.)",
+
+      "Participants should get their songs/music in a CD or pen-drive. Live music is not allowed.",
+      "The participant must portray a theme through dance. The participants must choose from a list of themes that will be announced three weeks prior to the fest.",
+      "Time limit is 2 min-3 min (music on to music off).", "Stage specification - 20ft*38ft (approx)."
+    ],
+    "GI": [
+      "For both prelims and finals, 20% marks will be deducted if the performance exceeds by 10 sec. If the performance time increases further by 20 sec, it will lead to disqualification.",
+      "In case of malfunctioning of any equipment provided, the participant will be allowed to repeat the performance from the beginning or from the point of disruption that the participant wishes, with the consent of the judges.",
+      "Accessories, costumes and props will have to be arranged by the participants.",
+      "The performance should be in cohesion with the integrity of the fest.",
+      "The songs selected by the participants must not contain any foul language.",
+      "Live animals and naked flames are not allowed."
+    ],
+    "JC": [["Choreography:", "35%"], ["Justification with given emotion:", "20%"], ["Attitude:", "20%"], ["Stage Utilization:", "15%"], ["Crowd Response:", "10%"]]
+  },
+  "Two For a Tango": {
+    "str": ["Two For", " a Tango"],
+    "linkArray": [["/About", "About"], ["/Rules_Shuffle", "Rules"], ["/Gi_Shuffle", "General Instructions"], ["/Jc", "Judgement Criteria"], ["/Register", "Register"] ],
+    "about": "A duet dancing competition that sets the stage ablaze with the astonishing chemistry between the partners. If you can groove to the rhythm of your comrade, then it’s the perfect place to showcase your grace.",
+    "rules": [
+      "The event will be of two rounds."
+      ],
+    "rules_prelims": [
+      "Offline prelims will be conducted in Mumbai, Delhi, Bangalore, Pune, Hyderabad and Bhopal. Online prelims will also be conducted wherein participants must send a link to their video performance at dance.sf19@gmail.com before 7th January 2019",
+      "The performance should be minimum 1.5 minutes and maximum 2 minutes long (music on to music off). All dance forms are allowed.",
+      "Judging criteria includes choreography, stage utilization, energy level, innovation, presentation, and overall impact on the crowd."
+      ],
+    "rules_finals": [
+      "Participants should get their songs/music in a CD or a pen-drive. Live music is not allowed.",
+      "The event is strictly a duo dance competition and there shouldn't be any extra person on stage at any point during the performance, any combination of two people irrespective Of the gender is allowed.",
+      "Any dance form is allowed.",
+      "In prelims, the couple will have to dance for 2+1 min (music on to music Off); while in the finals, the couple has to dance for 4+1 min (music on to music Off).",
+      "Stage specification 20ft x 38ft (approx.).",
+      "For both prelims and finals, 20% marks will be deducted if the performance exceeds by 15 sec. If the performance increases further by 30 seconds, it will lead to disqualification.",
+      "In case of malfunctioning of any equipment provided, the team will be allowed to repeat their performance from the beginning or from the point of disruption that the team wishes, with the consent of the judge.",
+      "Accessories, costumes and props will have to be arranged by the participants."
+    ],
+    "GI": [
+      "The performance should be in cohesion with the integrity of the fest.",
+      "The songs selected by the participants must not contain any foul language.",
+      "Live animals and naked flames are not allowed."
+    ],
+    "JC": [["Choreography:", "35%"], ["Justification with given emotion:", "20%"], ["Attitude:", "20%"], ["Stage Utilization:", "15%"], ["Crowd Response:", "10%"]]
+  }
+}

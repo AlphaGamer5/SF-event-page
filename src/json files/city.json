@@ -1,0 +1,109 @@
+{
+  "city": [
+    "New Delhi",
+    "Kolkata",
+    "Bhubaneshwar",
+    "Ranchi",
+    "Bangalore",
+    "Bhopal",
+
+    "Hyderabad",
+    "Mumbai",
+    "Pune",
+
+    "Patna",
+    "Ahmedabad",
+    "Nagpur"
+  ],
+
+  "New Delhi": {
+    "image": "https://images.thrillophilia.com/image/upload/s--TyBlmC8d--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/038/465/original/shutterstock_161305583-copy-31.jpg.jpg?1458178947",
+    "desc": "Delhi, India’s capital territory, is a massive metropolitan area in the country’s north.In Old Delhi, a neighborhood dating to the 1600s, stands the imposing Mughal-eraRed Fort,a symbol of India. The City best known for its all round excellence,has a legacy of winners in almost all events in previous editions of Spring Fest. ",
+    "event": ["Nukkad", "Shuffle", "SF-Idol", "Shake-A-Leg", "Two For a Tango"],
+    "cityImage": "./Assets/newdelhi.jpg"
+  },
+
+  "Kolkata": {
+    "image": "https://images.thrillophilia.com/image/upload/s--TyBlmC8d--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/038/465/original/shutterstock_161305583-copy-31.jpg.jpg?1458178947",
+    "desc": " Kolkata is the capital of the Indian state of West Bengal. Located on the east bank of the Hooghly River, it is the principal commercial, cultural, and educational centre of East India. Many people from Kolkata—among them several Nobel laureates—have contributed to the arts, the sciences, and other areas. Kolkata culture features idiosyncrasies that include distinctively close-knit neighbourhoods and freestyle intellectual exchanges.  ",
+    "event": ["Hilarity Ensues", "Poetry Slams"],
+    "cityImage": "../Assets/mumbai.jpg"
+  },
+
+  "Bhubaneshwar": {
+    "image": "https://images.thrillophilia.com/image/upload/s--TyBlmC8d--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/038/465/original/shutterstock_161305583-copy-31.jpg.jpg?1458178947",
+    "desc": " Bhubaneshwar is the capital of the Indian state of Odisha. It is the largest city in Odisha and is a centre of economic and religious importance in Eastern India. With the diverse ranges of heritage resources, it showcases significant sacred cultural landscape components which have evolved with the support of available natural resource base and cultural trigger. ",
+    "event": ["Hilarity Ensues", "Poetry Slams"],
+    "cityImage": "../Assets/mumbai.jpg"
+  },
+
+  "Ranchi": {
+    "image": "https://images.thrillophilia.com/image/upload/s--TyBlmC8d--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/038/465/original/shutterstock_161305583-copy-31.jpg.jpg?1458178947",
+
+    "desc": " Ranchi is the capital of the Indian state of Jharkhand, and now it is the most populous city of the state. Ranchi was the centre of the Jharkhand movement, which called for a separate state for the tribal regions of South Bihar, northern Orissa, western West Bengal and the eastern area of what is present-day Chhattisgarh. The Jharkhand state was formed on 15 November 2000 by carving out the Bihar divisions of Chota Nagpur and Santhal Parganas. ",
+    "event": ["Hilarity Ensues", "Poetry Slams"],
+    "cityImage": "../Assets/mumbai.jpg"
+  },
+
+  "Bangalore": {
+    "image": "https://images.thrillophilia.com/image/upload/s--TyBlmC8d--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/038/465/original/shutterstock_161305583-copy-31.jpg.jpg?1458178947",
+
+    "desc": " Bengaluru (also called Bangalore) is the capital of India's southern Karnataka state. The center of India's high-tech industry, the city is also known for its parks and nightlife. Bangalore Palace, a palace located in Bangalore, Karnataka, India, in an area owned originally by Rev. J. Garrett, the first principal of the Central High School in Bangalore, now famous as Central College. Known for its  singing and dance winners the city has a reputation for most enthralling performances.",
+    "event": ["Shuffle", "Shake-A-Leg"],
+    "cityImage": "../Assets/banagaluru.jpg"
+  },
+
+  "Bhopal": {
+    "image": "https://images.thrillophilia.com/image/upload/s--TyBlmC8d--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/038/465/original/shutterstock_161305583-copy-31.jpg.jpg?1458178947",
+
+    "desc": " Bhopal is a city in the central Indian state of Madhya Pradesh. It's one of India’s greenest cities. There are two main lakes, the Upper Lake and the Lower Lake. On the banks of the Upper Lake is Van Vihar National Park, home to tigers, lions and leopards. The State Museum has fossils, paintings and rare Jain sculptures. Taj-ul-Masjid is one of Asia’s largest mosques, with white domes, minarets and a huge courtyard. ",
+    "event": ["Nukkad","Shuffle", "SF-Idol", "Shake-A-Leg", "Two For a Tango"],
+    "cityImage": "../Assets/Bhopal.jpg"
+  },
+
+
+  "Hyderabad": {
+    "image": "https://images.thrillophilia.com/image/upload/s--TyBlmC8d--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/038/465/original/shutterstock_161305583-copy-31.jpg.jpg?1458178947",
+
+    "desc": "Hyderabad is the capital of southern India's Telangana state. A major center for the technology industry, it's home to many upscale restaurants and shops.The Charminar, a 16th-century mosque whose 4 arches support towering minarets, is an old city landmark near the long-standing Laad Bazaar. One of the best cities in Andhra Pradesh and Telangana, Hyderabad has been consistent in bagging prizes from the flagship events of Spring Fest.",
+    "event": ["Shuffle", "SF-Idol", "Shake-A-Leg"],
+    "cityImage": "../Assets/hyderabad.jpg"
+  },
+
+  "Mumbai": {
+    "image": "https://images.thrillophilia.com/image/upload/s--TyBlmC8d--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/038/465/original/shutterstock_161305583-copy-31.jpg.jpg?1458178947",
+
+    "desc": "Mumbai is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924.Best known for its passion for dance- the moves, thrills and the stills all make an unexperienced combination in this magical city. The city has possesses winning teams and a stark competition in the past editions.",
+    "event": ["Shuffle", "SF-Idol", "Shake-A-Leg", "Nukkad", "Two For a Tango"],
+    "cityImage": "../Assets/mumbai.jpg"
+  },
+  "Pune": {
+    "image": "https://images.thrillophilia.com/image/upload/s--TyBlmC8d--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/038/465/original/shutterstock_161305583-copy-31.jpg.jpg?1458178947",
+
+    "desc": "Pune is a sprawling city in the western Indian state of Maharashtra. It was once the base of the Peshwas (prime ministers) of the Maratha Empire, which lasted from 1674 to 1818. The 8th-century Pataleshwar Cave Temple is dedicated to the Hindu god Shiva. The city has a reputation for unexpected and non-conventional ideas and the humble performers often leave the judges with astonishment.",
+    "event": ["Shuffle", "SF-Idol", "Shake-A-Leg", "Nukkad", "Two For a Tango"],
+    "cityImage": "../Assets/mumbai.jpg"
+  },
+  
+  "Patna": {
+    "image": "https://images.thrillophilia.com/image/upload/s--TyBlmC8d--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/038/465/original/shutterstock_161305583-copy-31.jpg.jpg?1458178947",
+
+    "desc": "Patna is the capital and largest city of the state of Bihar in India. Patna is the second-largest city in eastern India after Kolkata. Patna Museum is the state museum of the Indian state of Bihar. A city of hidden treasure and unexplored knowledge, this new entrant boasts magical performances in almost all kinds of events.",
+    "event": ["SF-Idol", "Shake-A-Leg", "Nukkad", "Two For a Tango"],
+    "cityImage": "../Assets/mumbai.jpg"
+  },
+  "Ahmedabad": {
+    "image": "https://images.thrillophilia.com/image/upload/s--TyBlmC8d--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/038/465/original/shutterstock_161305583-copy-31.jpg.jpg?1458178947",
+
+    "desc": "Ahmedabad is the largest city and former capital of the Indian state of Gujarat. Jama Masjid, is a mosque in Ahmedabad, built in 1424 during the reign of Ahmed Shah I. Farthest City from Kharagpur yet, has a special place in the heart of all audiences, the city is all set up to make its mark as the newest entrant and make a history in the Golden Jubilee.",
+    "event": ["SF-Idol", "Shake-A-Leg", "Two For a Tango"],
+    "cityImage": "../Assets/ahemdabad.jpg"
+  },
+  "Nagpur": {
+    "image": "https://images.thrillophilia.com/image/upload/s--TyBlmC8d--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/038/465/original/shutterstock_161305583-copy-31.jpg.jpg?1458178947",
+
+    "desc": "Nagpur is the winter capital and the third largest city of the Indian state of Maharashtra after Mumbai and Pune. Nagpur is the 13th largest Indian city in terms of population. It has been proposed as one of the Smart Cities in Maharashtra.The city is one of the newly added ones to our list of cities and holds a promise of hidden talent, thrill and excitement.",
+    "event": [],
+    "cityImage": "../Assets/mumbai.jpg"
+  }
+}

@@ -1,0 +1,94 @@
+*{
+  text-decoration: none;
+}
+.navcont {
+  position: fixed;
+  padding-top: 1.5rem;
+  width: 60px;
+  top: 0;
+  height: 100vh;
+  box-sizing: border-box;
+  text-decoration: none;
+  z-index: 100;
+  background-color: #202020;
+  overflow: hidden;
+  transition: width 0.7s ease;
+  cursor: pointer;
+  box-shadow: 4px 7px 100px rgba(0, 0, 0, 0.6);
+}
+@media screen and (min-width: 600px) {
+  .navcont {
+    width: 80px;
+  }
+}
+
+.navcont:hover {
+  width: 30%;
+}
+
+.nav {
+  list-style-type: none;
+  text-decoration: none;
+  color: white;
+}
+
+.nav:first-child {
+  box-sizing: border-box;
+  padding-top: 1.5rem;
+}
+
+.navitems {
+  box-sizing: border-box;
+  color: white;
+  height: 25vh;
+  padding-bottom: 4rem;
+  font-family: "roboto";
+}
+.fas{
+  margin-left:-15px;
+}
+
+.navitems p {
+  position: relative;
+  display: block;
+  top:-35px;
+  padding: 1.1em 0;
+  transition: all 0.3s ease;
+  margin-left: 25px;
+  margin-right: 10px;
+  text-decoration: none;
+  color: white;
+  font-weight: 100;
+  font-size: 1.35em;
+}
+
+.options{
+  font-weight: 100;
+  padding: 1.1em 0;
+  top: -35px;
+  font-size: 26px;
+}
+
+.navitems > p:after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  text-decoration: none;
+  top: 0;
+  left: 0;
+  border-radius: 2px;
+  background: radial-gradient(
+    circle at 94.02% 88.03%,
+    #54a4ff,
+    transparent 100%
+  );
+  opacity: 0;
+  transition: all 0.5s ease;
+  z-index: -10;
+}
+
+.navitems:hover p:after {
+  opacity: 1;
+  text-decoration: none;
+}
