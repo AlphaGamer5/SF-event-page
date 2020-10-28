@@ -4,9 +4,9 @@
 .navcont {
   position: fixed;
   padding-top: 1.5rem;
-  width: 60px;
+  width: 80px;
   top: 0;
-  height: 100vh;
+  height: 100%;
   box-sizing: border-box;
   text-decoration: none;
   z-index: 100;
@@ -39,7 +39,7 @@
 .nav {
   list-style-type: none;
   text-decoration: none;
-  color: white;
+  color: #EC4D37;
 }
 
 .nav:first-child {
@@ -49,7 +49,7 @@
 
 .navitems {
   box-sizing: border-box;
-  color: white;
+  color: #EC4D37;
   height: 25vh;
   padding-bottom: 4rem;
   font-family: "roboto";
@@ -67,12 +67,11 @@
   margin-left: 25px;
   margin-right: 10px;
   text-decoration: none;
-  color: white;
+  color: #EC4D37;
   font-weight: 100;
   font-size: 1.35em;
   animation-duration: 1.5s;
   animation-name: slidein;
-  padding:40px;
 }
 
 .options{
