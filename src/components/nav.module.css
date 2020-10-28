@@ -22,8 +22,18 @@
   }
 }
 
+@keyframes slidein {
+  from {
+    margin-left: -1000px;
+  }
+
+  to {
+    margin-left: 25px;
+  }
+}
+
 .navcont:hover {
-  width: 30%;
+  width: 200px;
 }
 
 .nav {
@@ -60,6 +70,8 @@
   color: white;
   font-weight: 100;
   font-size: 1.35em;
+  animation-duration: 1.5s;
+  animation-name: slidein;
 }
 
 .options{
